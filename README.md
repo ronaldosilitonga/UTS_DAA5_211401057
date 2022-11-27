@@ -7,13 +7,6 @@
 
 4.  buat lah program data mahasiswa yang di urutkan berdasarkan nim
 
-
-
-
-
-CARA PENGUMPULAN : 
-FORK UTS DI GITHUB
-PUSH CODINGAN DI GITHUB
-
-FORMAT REPOSITORY UTS_DAA5_NIM
+# NAMA  : RONALDO DAMIANUS PARULIAN SILITONGA
+# NIM   : 211401057
 
