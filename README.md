@@ -8,5 +8,5 @@
 4.  buat lah program data mahasiswa yang di urutkan berdasarkan nim
 
 # NAMA  : RONALDO DAMIANUS PARULIAN SILITONGA
-# NIM   : 211401057
+NIM   : 211401057
 
