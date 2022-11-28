@@ -10,3 +10,11 @@
 # NAMA  : RONALDO DAMIANUS PARULIAN SILITONGA
 NIM   : 211401057
 
+Link Video Penjelasan 
+
+- Stack and queue = https://youtu.be/K-CtCgL4ZFw
+- Linked list = https://youtu.be/gHvG0Zr8Sl8
+
+no 3 code source
+https://www.teachmesoft.com/2019/03/single-linked-list-c-disertai-contoh.html
+
